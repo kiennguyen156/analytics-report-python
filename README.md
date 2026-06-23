@@ -8,13 +8,13 @@ Each notebook in this repo explores a specific analytical framework applied to a
 ## 📁 Projects Included
 
 🏆 **ABC Analysis & Customer Profitability** (`ABC Analysis.ipynb`)  
-An application of the Pareto principle analyzing a customer base of 17,400+ users. This analysis identifies the top 12.9% of VIP customers driving the majority of profits and optimizes year-end reward programs by shifting budgets from mass to personalized marketing.
+This report identifies the VIP customers driving the majority of profits and optimizes year-end reward programs by shifting budgets from mass to personalized marketing.
 
 🎯 **RFM Segmentation & Targeted Marketing** (`RFM Analysis.ipynb`)  
-A behavioral segmentation model evaluating over 50,000 historical transactions. It identifies a highly profitable "Promising" segment of 6,000+ users in major US cities and streamlines email marketing strategies to reduce mass-mailing costs and customer fatigue.
+A behavioral segmentation model evaluating over 50,000 historical transactions. It identifies a highly profitable segment of users in major US cities and streamlines email marketing strategies to reduce mass-mailing costs and customer fatigue.
 
 📅 **Cohort Analysis & Long-term Retention** (`Cohort Analysis.ipynb`)  
-A cohort study uncovering the counter-intuitive insight that middle-income users (Clerical segment, ~$31,000/year) are the most sustainable profit drivers, maintaining steady profitable repeat purchase rates (3-9%) up to the 10th month, heavily outperforming higher-income tiers.
+A cohort study uncovering the counter-intuitive insight that middle-income users are the most sustainable profit drivers, maintaining steady profitable repeat purchase rates, heavily outperforming higher-income tiers.
 
 ## 🔧 Tech Stack
 
